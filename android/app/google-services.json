@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "68975839347",
+    "firebase_url": "https://sust-ai-n-default-rtdb.firebaseio.com",
+    "project_id": "sust-ai-n",
+    "storage_bucket": "sust-ai-n.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68975839347:android:2cccb5b20aac2e814c8206",
+        "android_client_info": {
+          "package_name": "com.example.sust_ai_n"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68975839347-6nfqvpirgbso5o8t62p62s6a8jrb9115.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sust_ai_n",
+            "certificate_hash": "01ee5c5b3b5f0ae960f2e6f9952440933f5f4b14"
+          }
+        },
+        {
+          "client_id": "68975839347-73j0omnjeni7q07pm1e8ms0622bm038m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sust_ai_n",
+            "certificate_hash": "a954e2f4835458076795248691d13ab959fdc29b"
+          }
+        },
+        {
+          "client_id": "68975839347-nti5tk62hva5fai96aqveki9dkv3792h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sust_ai_n",
+            "certificate_hash": "90d621ff8dff3bb2d91a8bb36ae0f3c7f936f99f"
+          }
+        },
+        {
+          "client_id": "68975839347-5uigsfb20b3utpbjlsuia34u8d4hs12o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsuwIZ5ctkhTHQZUgjzQ9ZkdL3azT20JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68975839347-5uigsfb20b3utpbjlsuia34u8d4hs12o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68975839347-ebkn7vqvmol4di67fk14hgm2v40765c7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sustAin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

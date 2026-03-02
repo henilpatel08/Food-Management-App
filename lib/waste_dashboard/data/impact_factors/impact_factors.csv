@@ -1,0 +1,144 @@
+food_or_category,co2e_per_kg,water_L_per_kg,energy_kWh_per_kg,price_per_kg,source_meta,version
+veg.tomato,1.10,180,,3.50,OWID/Recon 2023,v1.0
+veg.onion,0.50,200,,2.20,OWID/Recon 2023,v1.0
+veg.potato,0.30,290,,1.50,OWID/Recon 2023,v1.0
+veg.spinach,0.80,300,,5.00,OWID/Recon 2023,v1.0
+veg.cucumber,0.50,240,,2.00,OWID/Recon 2023,v1.0
+veg.carrot,0.40,250,,2.00,OWID/Recon 2023,v1.0
+veg.broccoli,0.70,280,,4.20,OWID/Recon 2023,v1.0
+veg.lettuce,0.50,240,,3.10,OWID/Recon 2023,v1.0
+veg.cabbage,0.30,200,,2.50,OWID/Recon 2023,v1.0
+veg.pepper,1.00,300,,6.00,OWID/Recon 2023,v1.0
+veg.cauliflower,0.60,350,,4.50,OWID/Recon 2023,v1.0
+veg.mushroom,1.60,300,,8.00,OWID/Recon 2023,v1.0
+veg.sweet_potato,0.40,320,,2.20,OWID/Recon 2023,v1.0
+veg.beetroot,0.40,240,,3.00,OWID/Recon 2023,v1.0
+veg.green_bean,0.50,250,,3.00,OWID/Recon 2023,v1.0
+veg.zucchini,0.50,220,,3.40,OWID/Recon 2023,v1.0
+veg.brussels_sprout,0.80,280,,5.00,OWID/Recon 2023,v1.0
+veg.asparagus,1.70,250,,9.00,OWID/Recon 2023,v1.0
+veg.eggplant,0.80,240,,3.80,OWID/Recon 2023,v1.0
+veg.peas,0.90,300,,3.20,OWID/Recon 2023,v1.0
+
+fruit.apple,0.40,700,,3.20,OWID/Recon 2023,v1.0
+fruit.banana,0.70,860,,1.90,OWID/Recon 2023,v1.0
+fruit.orange,0.50,560,,3.00,OWID/Recon 2023,v1.0
+fruit.strawberry,2.00,280,,6.00,OWID/Recon 2023,v1.0
+fruit.grapes,3.00,610,,7.00,OWID/Recon 2023,v1.0
+fruit.blueberry,2.50,500,,9.00,OWID/Recon 2023,v1.0
+fruit.pineapple,1.10,250,,4.50,OWID/Recon 2023,v1.0
+fruit.mango,0.90,900,,5.00,OWID/Recon 2023,v1.0
+fruit.watermelon,0.40,240,,1.80,OWID/Recon 2023,v1.0
+fruit.pear,0.40,600,,3.00,OWID/Recon 2023,v1.0
+fruit.peach,0.70,500,,3.80,OWID/Recon 2023,v1.0
+fruit.kiwi,1.50,400,,7.00,OWID/Recon 2023,v1.0
+fruit.avocado,2.50,2000,,8.00,OWID/Recon 2023,v1.0
+fruit.lemon,0.60,300,,3.00,OWID/Recon 2023,v1.0
+fruit.lime,0.60,300,,3.00,OWID/Recon 2023,v1.0
+
+grain.rice,2.70,2500,,2.20,ReFED/Quantis synth 2022,v1.0
+grain.wheat_bread,1.00,1600,,3.00,OWID/Recon 2023,v1.0
+grain.pasta,1.40,1800,,2.80,OWID/Recon 2023,v1.0
+grain.noodles,1.20,1500,,2.40,OWID/Recon 2023,v1.0
+grain.flour,0.90,1200,,2.00,OWID/Recon 2023,v1.0
+grain.corn,0.60,900,,1.80,OWID/Recon 2023,v1.0
+grain.oats,0.90,600,,2.50,OWID/Recon 2023,v1.0
+grain.barley,0.80,700,,2.20,OWID/Recon 2023,v1.0
+grain.quinoa,3.00,1800,,7.00,OWID/Recon 2023,v1.0
+grain.tortilla,1.10,1300,,3.00,OWID/Recon 2023,v1.0
+grain.cereal,1.80,1400,,5.00,OWID/Recon 2023,v1.0
+
+protein.chicken,9.90,4300,,11.00,OWID/Recon 2023,v1.0
+protein.beef,27.00,15000,,18.00,OWID/Recon 2023,v1.0
+protein.pork,12.50,6000,,10.00,OWID/Recon 2023,v1.0
+protein.egg,4.50,3300,,4.50,OWID/Recon 2023,v1.0
+protein.lamb,24.00,10000,,19.00,OWID/Recon 2023,v1.0
+protein.turkey,10.00,4200,,11.00,OWID/Recon 2023,v1.0
+protein.tofu,3.00,1800,,5.00,OWID/Recon 2023,v1.0
+protein.tempeh,3.50,1900,,6.00,OWID/Recon 2023,v1.0
+protein.seitan,2.50,1500,,5.00,OWID/Recon 2023,v1.0
+protein.sausage,8.00,4500,,10.00,OWID/Recon 2023,v1.0
+protein.ham,7.00,4000,,9.00,OWID/Recon 2023,v1.0
+protein.bacon,6.00,3500,,9.00,OWID/Recon 2023,v1.0
+protein.burger_patty_beef,26.00,14000,,20.00,OWID/Recon 2023,v1.0
+protein.burger_patty_plant,4.00,2500,,8.00,LCA synth,v1.0
+
+dairy.milk,1.30,1000,,1.90,OWID/Recon 2023,v1.0
+dairy.cheese,13.50,5000,,14.00,OWID/Recon 2023,v1.0
+dairy.butter,12.00,5500,,15.00,OWID/Recon 2023,v1.0
+dairy.yogurt,2.20,1200,,3.00,OWID/Recon 2023,v1.0
+dairy.cream,7.00,4000,,8.00,OWID/Recon 2023,v1.0
+dairy.ice_cream,3.50,1800,,6.00,OWID/Recon 2023,v1.0
+dairy.milk_plant_soy,0.90,300,,2.50,OWID/Recon 2023,v1.0
+dairy.milk_plant_oat,0.90,350,,3.00,OWID/Recon 2023,v1.0
+
+legume.lentils,0.90,500,,3.50,OWID/Recon 2023,v1.0
+legume.chickpeas,1.00,430,,2.80,OWID/Recon 2023,v1.0
+legume.beans,1.30,800,,3.10,OWID/Recon 2023,v1.0
+legume.peas_dried,0.90,600,,2.70,OWID/Recon 2023,v1.0
+legume.soybeans,2.00,1100,,3.80,OWID/Recon 2023,v1.0
+
+fish.white_fish,6.00,4000,,15.00,OWID/Recon 2023,v1.0
+fish.salmon,5.00,3500,,14.00,OWID/Recon 2023,v1.0
+fish.tuna,6.80,4200,,15.00,OWID/Recon 2023,v1.0
+fish.sardine,4.00,3200,,12.00,OWID/Recon 2023,v1.0
+fish.prawn,12.00,4500,,16.00,OWID/Recon 2023,v1.0
+
+pantry.cooking_oil,3.00,5000,,6.00,Mixed LCA synth,v1.0
+pantry.olive_oil,4.50,14000,,10.00,WaterFootprint/LCA synth,v1.0
+pantry.sunflower_oil,3.00,6000,,7.00,LCA synth,v1.0
+pantry.sugar,1.00,1800,,2.00,OWID/Recon 2023,v1.0
+pantry.salt,0.10,50,,0.50,LCA synth,v1.0
+pantry.honey,1.50,1500,,10.00,OWID/Recon 2023,v1.0
+pantry.ketchup,1.80,400,,4.50,LCA synth,v1.0
+pantry.mayonnaise,4.00,3500,,6.00,LCA synth,v1.0
+pantry.peanut_butter,3.50,4000,,7.00,LCA synth,v1.0
+pantry.jam,1.20,800,,4.00,LCA synth,v1.0
+pantry.chocolate,5.50,17000,,12.00,OWID/Recon 2023,v1.0
+pantry.chocolate_spread,6.00,18000,,11.00,LCA synth,v1.0
+pantry.cocoa_powder,6.50,19000,,13.00,OWID/Recon 2023,v1.0
+pantry.chips,2.50,1200,,4.00,LCA synth,v1.0
+pantry.biscuits,2.00,1400,,3.50,LCA synth,v1.0
+pantry.crackers,1.90,1300,,3.40,LCA synth,v1.0
+pantry.tortilla_wrap,1.30,1500,,3.50,LCA synth,v1.0
+pantry.soy_sauce,2.00,2000,,4.50,LCA synth,v1.0
+pantry.tomato_sauce,1.40,300,,3.80,LCA synth,v1.0
+pantry.pasta_sauce,2.00,500,,5.50,LCA synth,v1.0
+pantry.stock_cube,2.50,900,,6.00,LCA synth,v1.0
+pantry.bouillon_powder,2.70,1000,,6.50,LCA synth,v1.0
+
+nut.almond,2.30,16000,,14.00,OWID/WaterFootprint synth,v1.0
+nut.walnut,2.00,8000,,13.00,WaterFootprint synth,v1.0
+nut.cashew,3.50,14000,,16.00,WaterFootprint synth,v1.0
+nut.hazelnut,2.30,9000,,15.00,WaterFootprint synth,v1.0
+seed.sunflower_seed,1.80,7000,,7.00,WaterFootprint synth,v1.0
+seed.chia_seed,2.50,6000,,10.00,LCA synth,v1.0
+seed.flaxseed,1.80,5000,,6.00,LCA synth,v1.0
+
+beverage.coffee_ground,5.00,21000,,18.00,WaterFootprint/OWID synth,v1.0
+beverage.tea,1.10,9000,,10.00,WaterFootprint synth,v1.0
+beverage.soft_drink,0.50,300,,2.50,LCA synth,v1.0
+beverage.juice,0.60,400,,3.50,LCA synth,v1.0
+beverage.milkshake,2.50,1500,,5.50,LCA synth,v1.0
+beverage.energy_drink,1.40,600,,4.00,LCA synth,v1.0
+beverage.beer,1.00,300,,3.50,OWID/Recon 2023,v1.0
+beverage.wine,1.60,600,,10.00,OWID/Recon 2023,v1.0
+
+frozen.pizza,6.00,3000,,8.00,LCA synth,v1.0
+frozen.french_fries,3.00,1500,,4.50,LCA synth,v1.0
+frozen.ice_cream_tub,3.50,1800,,6.50,LCA synth,v1.0
+frozen.veggie_burger,4.00,2200,,7.00,LCA synth,v1.0
+
+dessert.cake,4.00,2500,,8.00,LCA synth,v1.0
+dessert.cookie,2.50,1600,,4.50,LCA synth,v1.0
+dessert.brownie,4.50,2600,,8.50,LCA synth,v1.0
+dessert.donut,3.00,1800,,4.50,LCA synth,v1.0
+dessert.muffin,2.80,1700,,4.20,LCA synth,v1.0
+dessert.ice_cream_bar,3.20,1700,,6.00,LCA synth,v1.0
+
+prepared.sandwich_ham_cheese,5.00,2800,,7.00,LCA synth,v1.0
+prepared.sandwich_veggie,2.20,1200,,4.00,LCA synth,v1.0
+prepared.ready_meal_pasta,4.00,2300,,6.00,LCA synth,v1.0
+prepared.ready_meal_curry,5.50,3000,,7.50,LCA synth,v1.0
+prepared.burger_meal_beef,18.00,9000,,15.00,LCA synth,v1.0
+prepared.burger_meal_chicken,10.00,5000,,11.00,LCA synth,v1.0
