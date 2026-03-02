@@ -1,6 +1,6 @@
-# Sust-AI-n: Food Management & Waste Reduction App
+# Food Management & Waste Reduction App
 
-Sust-AI-n is a smart, Flutter-based mobile application designed to help users manage their food consumption, reduce waste, and make more environmentally conscious decisions. By leveraging AI-driven features like OCR scanning and barcode recognition, the app simplifies inventory tracking and impact assessment.
+This is a smart, Flutter-based mobile application designed to help users manage their food consumption, reduce waste, and make more environmentally conscious decisions. By leveraging AI-driven features like OCR scanning and barcode recognition, the app simplifies inventory tracking and impact assessment.
 
 ## 🚀 Key Features
 
